@@ -1,4 +1,4 @@
-3 Sobre mim
+# Sobre mim
 
 - 👋 Oi! sou a @maatataren
 - 👀 Estou interessada em aprender a programar novas linguagens.
